@@ -2,10 +2,10 @@
 This repository reproduces the results of the paper ["Beyond calibration: estimating the grouping loss of modern neural networks"](https://arxiv.org/abs/2210.16315) by Alexandre Perez-Lebel, Marine Le Morvan, and Gaël Varoquaux (ICLR 2023).
 
 
-## User-friendly package for estimating the grouping loss [Coming soon]
-A separate package to easily estimate the grouping loss of a classifier will be available at:
-https://github.com/aperezlebel/gl_estimation.
+## User-friendly package for estimating the grouping loss
+A separate package to easily estimate the grouping loss of a classifier is available at:  
 
+[![GitHub repository](https://img.shields.io/badge/glest-6EC041?logo=github&label=GitHub)](https://github.com/aperezlebel/glest)
 
 ## Install
 
